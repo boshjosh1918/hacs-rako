@@ -1,2 +1,2 @@
-# hacs-rako
-Rako lightinh integration designed for Home Assistant Community Store
+# HACS Rako
+Rako lighting integration designed for Home Assistant Community Store
