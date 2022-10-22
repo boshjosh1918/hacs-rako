@@ -1,5 +1,6 @@
 from homeassistant import config_entries
 from homeassistant.helpers.selector import selector
+import voluptuous as vol
 from .const import DOMAIN
 
 
